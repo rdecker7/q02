@@ -31,7 +31,7 @@ int main()
     {
       for (init c=0;c<max;index++)
       {
-        cout<<"Row "<<r<<"Column "<<c<<"is "<<max[r][c];
+        cout<<"Row "<<r<<"Column "<<c<<"is "<<wordGrid[r][c];
       }
     }
 
